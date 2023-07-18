@@ -1,4 +1,5 @@
 # Text Editor
+<img width="534" alt="Screenshot 2023-07-18 at 3 16 11 PM" src="https://github.com/ArmanAtwal/TextEditor/assets/139921617/7a06e633-c438-448d-b27d-4fa95c21166e">
 
 # Description
 This is a simple text editor built using Python. It provides a user-friendly interface for creating, editing, and saving text files. The editor is designed to be lightweight and easy to use, making it suitable for various text editing tasks.
