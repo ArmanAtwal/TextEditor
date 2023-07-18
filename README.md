@@ -22,7 +22,7 @@ To run the text editor on your local machine, follow these steps:
 Ensure you have Python installed. You can download it from the official Python website: https://www.python.org/
 
 1. Clone the repository to your local machine using the following command:
-git clone 
+git clone https://github.com/ArmanAtwal/TextEditor
 2. Navigate to the project directory:
 cd text-editor
 3. Install the required dependencies by running the following command:
